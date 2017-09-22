@@ -1,5 +1,8 @@
-# 15oracle
-15 级 oracle 课程项目
+# Oracle数据库项目课程
+
+### Class:B1511  Course:Oracle  Group:Three  Group Leader:王安富
+
+### 详细分工:
 
 	姓名  ---   职位（负责部分）   ---    实验报告
 
